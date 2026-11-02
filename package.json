@@ -52,10 +52,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Amit-Roy/harden-vps.git"
+    "url": "git+https://github.com/nefr0/harden-vps.git"
   },
-  "homepage": "https://github.com/Amit-Roy/harden-vps#readme",
+  "homepage": "https://github.com/nefr0/harden-vps#readme",
   "bugs": {
-    "url": "https://github.com/Amit-Roy/harden-vps/issues"
+    "url": "https://github.com/nefr0/harden-vps/issues"
   }
 }
